@@ -1,0 +1,17 @@
+{
+    "name": "markinigor/ivan",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Igor Markin",
+            "email": "igorvdonsk@yandex.ru"
+        }
+    ],
+    "require": {}
+}
