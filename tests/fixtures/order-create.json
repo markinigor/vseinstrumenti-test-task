@@ -1,0 +1,11 @@
+{
+  "sum": 1000,
+  "contractorType": 1,
+  "items": [
+    {
+      "productId": 1,
+      "price": 1000,
+      "quantity": 1
+    }
+  ]
+}
